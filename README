@@ -15,7 +15,7 @@ Launch CodeRunner and open up the preferences dialog then select the languages t
      
 #!/usr/local/bin/rdmd  
 import std.stdio;
-void main(string[] args) {
+void main() {
 	writeln("Hello World");
 	// start creating shit
 	%@
