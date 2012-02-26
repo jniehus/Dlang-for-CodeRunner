@@ -1,0 +1,29 @@
+--- CodeRunner V 1.3 ---
+
+Navigate to the package contents of CodeRunner and replace the Syntax.plist file:
+/Applications/CodeRunner.app/Contents/Resources/Syntax.plist => replace this file with my GitHub version
+
+Now navigate to the Syntax folder and add the dlang.plist file:
+/Applications/CodeRunner.app/Contents/Resources/Syntax/ => dlang.plist
+
+Launch CodeRunner and open up the preferences dialog then select the languages tab then follow these steps:
+1) Add a new language by selecting the '+' button at the bottom of the list  
+2) Type 'D' or 'D Lang' in the new field then hit enter
+3) Go over to the 'Run Command:' input box and type the following: rdmd $filename
+4) Select UTF-8 from the I/O Encoding combo box (if it aint already selected)
+5) [optional] go to the 'Code template' input box and enter the following:
+     
+#!/usr/local/bin/rdmd  
+import std.stdio;
+void main(string[] args) {
+	writeln("Hello World");
+	// start creating shit
+	%@
+}
+
+6) Select 'D Programming Language' from the Syntax Mode combo box
+7) type 'd' in the file extension input box
+
+NOTES:
+*These steps maybe obsolete if new versions of CodeRunner come out, will try to keep up-to-date
+*If you Command-Tab a few new documents they will automatically be titled "Untitled 2.d" (etc...) and the compiler will throw an error.  The reason is that your script is actually a d 'module' and modules require valid names, like no spaces... so beware!
