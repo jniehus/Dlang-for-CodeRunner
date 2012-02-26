@@ -9,7 +9,10 @@ Now navigate to the Syntax folder and add the dlang.plist file:
 Launch CodeRunner and open up the preferences dialog then select the languages tab then follow these steps:
 1) Add a new language by selecting the '+' button at the bottom of the list  
 2) Type 'D' or 'D Lang' in the new field then hit enter
-3) Go over to the 'Run Command:' input box and type the following: rdmd $filename
+3) Go over to the 'Run Command:' input box and type the following: 
+  * rdmd $filename
+  or if you really want to be verbose:
+  * dmd -release -O -run $filename
 4) Select UTF-8 from the I/O Encoding combo box (if it aint already selected)
 5) [optional] go to the 'Code template' input box and enter the following:
      
