@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keywords</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>control structures, general keywords</string>
+			<key>color</key>
+			<string>KeywordColor</string>
+			<key>strings</key>
+			<dict>
+			  <key>abstract</key>
+			  <string></string>
+			  <key>alias</key>
+			  <string></string>		
+			  <key>align</key>
+			  <string></string>
+			  <key>asm</key>
+			  <string></string>	 
+			  <key>assert</key>
+			  <string></string> 
+			  <key>body</key>
+			  <string></string>
+			  <key>cast</key>
+			  <string></string>
+			  <key>try</key>
+			  <string></string>
+			  <key>catch</key>
+			  <string></string>
+			  <key>finally</key>
+			  <string></string>			  
+			  <key>const</key>
+			  <string></string>		
+			  <key>debug</key>
+			  <string></string>	  
+			  <key>delegate</key>
+			  <string></string>
+			  <key>delete</key>
+			  <string></string>		
+			  <key>deprecated</key>
+			  <string></string>	  
+			  <key>enum</key>
+			  <string></string>
+			  <key>export</key>
+			  <string></string>
+			  <key>extern</key>
+			  <string></string>
+			  <key>function</key>
+			  <string></string>	
+			  <key>immutable</key>
+			  <string></string>		
+				<key>import</key>
+				<string></string>			  		  
+			  <key>in</key>
+			  <string></string>			
+			  <key>inout</key>
+			  <string></string>		
+			  <key>interface</key>
+			  <string></string>
+			  <key>invariant</key>
+			  <string></string>		
+			  <key>is</key>
+			  <string></string>	
+			  <key>lazy</key>
+			  <string></string>		
+			  <key>macro</key>
+			  <string></string>
+			  <key>mixin</key>
+			  <string></string>
+			  <key>module</key>
+			  <string></string>		
+			  <key>new</key>
+			  <string></string>	
+			  <key>throw</key>
+			  <string></string>			  
+			  <key>nothrow</key>	  
+			  <string></string>	
+			  <key>out</key>
+			  <string></string>			
+			  <key>override</key>
+			  <string></string>			    		  		  	  			  			  	  		  	  			  	    		  			  
+				<key>if</key>
+				<string></string>
+				<key>else</key>
+				<string></string>
+			  <key>package</key>
+			  <string></string>		
+			  <key>pragma</key>
+			  <string></string>			
+			  <key>private</key>
+			  <string></string>			
+			  <key>protected</key>
+			  <string></string>			  
+			  <key>public</key>
+			  <string></string>			
+			  <key>pure</key>
+			  <string></string>		
+			  <key>ref</key>
+			  <string></string>			  	
+			  <key>scope</key>
+			  <string></string>	
+			  <key>shared</key>
+			  <string></string>
+			  <key>struct</key>
+			  <string></string>
+			  <key>super</key>
+			  <string></string>			
+			  <key>synchronized</key>
+			  <string></string>		
+			  <key>template</key>
+			  <string></string>		
+			  <key>typeid</key>
+			  <string></string>	
+			  <key>typeof</key>
+			  <string></string>	
+			  <key>union</key>
+			  <string></string>		
+			  <key>unittest</key>
+			  <string></string>			  
+			  <key>version</key>
+			  <string></string>	  	
+			  <key>volatile</key>
+			  <string></string>		
+			  <key>with</key>
+			  <string></string>																			  	  	  	    	    			  			  		          		
+				<key>for</key>
+				<string></string>
+			  <key>foreach</key>
+			  <string></string>	
+			  <key>foreach_reverse</key>
+			  <string></string>			  			
+				<key>while</key>
+				<string></string>
+				<key>do</key>
+				<string></string>
+				<key>switch</key>
+				<string></string>
+				<key>case</key>
+				<string></string>
+				<key>default</key>
+				<string></string>
+				<key>true</key>
+				<string></string>
+				<key>false</key>
+				<string></string>
+				<key>null</key>
+				<string></string>
+				<key>this</key>
+				<string></string>
+				<key>return</key>
+				<string></string>
+				<key>break</key>
+				<string></string>
+				<key>goto</key>
+				<string></string>
+				<key>continue</key>
+				<string></string>
+				<key>static</key>
+				<string></string>
+				<key>class</key>
+				<string></string>
+			</dict>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>types</string>
+			<key>color</key>
+			<string>ClassColor</string>
+			<key>strings</key>
+			<dict>
+				<key>byte</key>
+				<string></string>	
+				<key>ubyte</key>
+				<string></string>						
+				<key>short</key>
+				<string></string>	
+				<key>ushort</key>
+				<string></string>						
+				<key>int</key>
+				<string></string>
+				<key>uint</key>
+				<string></string>		
+				<key>long</key>
+				<string></string>		
+				<key>ulong</key>
+				<string></string>	
+				<key>cent</key>
+				<string></string>		
+				<key>ucent</key>
+				<string></string>							
+				<key>float</key>
+				<string></string>
+				<key>double</key>		
+				<string></string>		
+				<key>real</key>
+				<string></string>				
+				<key>bool</key>
+				<string></string>
+				<key>char</key>
+				<string></string>
+				<key>wchar</key>
+				<string></string>
+				<key>dchar</key>
+				<string></string>	
+				<key>string</key>
+				<string></string>							
+				<key>void</key>
+				<string></string>
+			  <key>auto</key>
+			  <string></string>				
+			</dict>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>special keywords</string>
+			<key>color</key>
+			<string>ClassColor</string>
+			<key>strings</key>
+			<dict>
+				<key>__FILE__</key>
+				<string></string>	
+				<key>__LINE__</key>
+				<string></string>
+				<key>__gshared</key>
+				<string></string>
+				<key>__thread</key>
+				<string></string>
+				<key>__traits</key>
+				<string></string>	
+			</dict>
+		</dict>
+	</array>
+	<key>ranges</key>
+	<dict>
+		<key>BlockComment</key>
+		<dict>
+			<key>color</key>
+			<string>CommentColor</string>
+			<key>end</key>
+			<string>*/</string>
+			<key>start</key>
+			<string>/*</string>
+		</dict>
+		<key>SingleQuote</key>
+		<dict>
+			<key>color</key>
+			<string>StringColor</string>
+			<key>end</key>
+			<string>&apos;</string>
+			<key>escape</key>
+			<string>\</string>
+			<key>start</key>
+			<string>&apos;</string>
+		</dict>
+		<key>OneLineComment</key>
+		<dict>
+			<key>color</key>
+			<string>CommentColor</string>
+			<key>end</key>
+			<string>
+</string>
+			<key>start</key>
+			<string>#</string>
+		</dict>
+		<key>OneLineComment2</key>
+		<dict>
+			<key>color</key>
+			<string>CommentColor</string>
+			<key>end</key>
+			<string>
+</string>
+			<key>start</key>
+			<string>//</string>
+		</dict>
+		<key>DoubleQuote</key>
+		<dict>
+			<key>color</key>
+			<string>StringColor</string>
+			<key>end</key>
+			<string>&quot;</string>
+			<key>escape</key>
+			<string>\</string>
+			<key>start</key>
+			<string>&quot;</string>
+		</dict>
+	</dict>
+	<key>variables</key>
+	<dict>
+		<key>prefixes</key>
+		<array>
+			<string>$</string>
+		</array>
+		<key>color</key>
+		<string>VariableColor</string>
+	</dict>
+	<key>numbers</key>
+	<dict>
+		<key>color</key>
+		<string>NumberColor</string>
+		<key>pattern</key>
+		<string>(?&lt;=[^\w\d]|^)(((([0-9]+\.[0-9]*)|(\.[0-9]+))([eE][+\-]?[0-9]+)?[fFlL]?)|((([1-9][0-9]*)|0[0-7]*|(0[xX][0-9a-fA-F]+))(([uU][lL]?)|([lL][uU]?))?))(?=[^\w\d]|$)</string>
+	</dict>
+	<key>completions</key>
+	<array>
+		<dict>
+			<key>word</key>
+			<string>for ()</string>
+			<key>insertion</key>
+			<string>for (&lt;!#expressions#!&gt;) {
+	
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>foreach ()</string>
+			<key>insertion</key>
+			<string>foreach (&lt;!#expressions#!&gt;) {
+	
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>	
+		<dict>
+			<key>word</key>
+			<string>foreach_reverse ()</string>
+			<key>insertion</key>
+			<string>foreach_reverse (&lt;!#expressions#!&gt;) {
+	
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>			
+		<dict>
+			<key>word</key>
+			<string>if ()</string>
+			<key>insertion</key>
+			<string>if (&lt;!#condition#!&gt;) {
+	
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>if () else {}</string>
+			<key>insertion</key>
+			<string>if (&lt;!#condition#!&gt;) {
+	
+} else {
+	
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>else if ()</string>
+			<key>insertion</key>
+			<string>else if (&lt;!#condition#!&gt;) {
+	
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>else {}</string>
+			<key>insertion</key>
+			<string>else {
+	&lt;!##!&gt;
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>while ()</string>
+			<key>insertion</key>
+			<string>while (&lt;!#condition#!&gt;) {
+	
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>do {} while ()</string>
+			<key>insertion</key>
+			<string>do {
+	
+} while (&lt;!#condition#!&gt;);</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>word</key>
+			<string>switch ()</string>
+			<key>insertion</key>
+			<string>switch (&lt;!#expression#!&gt;) {
+	default:
+		break;
+}</string>
+			<key>prefix</key>
+			<string>all</string>
+			<key>completion</key>
+			<true/>
+		</dict>
+	</array>
+	<key>wordCharacters</key>
+	<string>_</string>
+</dict>
+</plist>
