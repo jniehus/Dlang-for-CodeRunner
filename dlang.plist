@@ -11,126 +11,126 @@
 			<string>KeywordColor</string>
 			<key>strings</key>
 			<dict>
-			  <key>abstract</key>
-			  <string></string>
-			  <key>alias</key>
-			  <string></string>		
-			  <key>align</key>
-			  <string></string>
-			  <key>asm</key>
-			  <string></string>	 
-			  <key>assert</key>
-			  <string></string> 
-			  <key>body</key>
-			  <string></string>
-			  <key>cast</key>
-			  <string></string>
-			  <key>try</key>
-			  <string></string>
-			  <key>catch</key>
-			  <string></string>
-			  <key>finally</key>
-			  <string></string>			  
-			  <key>const</key>
-			  <string></string>		
-			  <key>debug</key>
-			  <string></string>	  
-			  <key>delegate</key>
-			  <string></string>
-			  <key>delete</key>
-			  <string></string>		
-			  <key>deprecated</key>
-			  <string></string>	  
-			  <key>enum</key>
-			  <string></string>
-			  <key>export</key>
-			  <string></string>
-			  <key>extern</key>
-			  <string></string>
-			  <key>function</key>
-			  <string></string>	
-			  <key>immutable</key>
-			  <string></string>		
+				<key>abstract</key>
+				<string></string>
+				<key>alias</key>
+				<string></string>		
+				<key>align</key>
+				<string></string>
+				<key>asm</key>
+				<string></string>	 
+				<key>assert</key>
+				<string></string> 
+				<key>body</key>
+				<string></string>
+				<key>cast</key>
+				<string></string>
+				<key>try</key>
+				<string></string>
+				<key>catch</key>
+				<string></string>
+				<key>finally</key>
+				<string></string>			  
+				<key>const</key>
+				<string></string>		
+				<key>debug</key>
+				<string></string>	  
+				<key>delegate</key>
+				<string></string>
+				<key>delete</key>
+				<string></string>		
+				<key>deprecated</key>
+				<string></string>	  
+				<key>enum</key>
+				<string></string>
+				<key>export</key>
+				<string></string>
+				<key>extern</key>
+				<string></string>
+				<key>function</key>
+				<string></string>	
+				<key>immutable</key>
+				<string></string>		
 				<key>import</key>
 				<string></string>			  		  
-			  <key>in</key>
-			  <string></string>			
-			  <key>inout</key>
-			  <string></string>		
-			  <key>interface</key>
-			  <string></string>
-			  <key>invariant</key>
-			  <string></string>		
-			  <key>is</key>
-			  <string></string>	
-			  <key>lazy</key>
-			  <string></string>		
-			  <key>macro</key>
-			  <string></string>
-			  <key>mixin</key>
-			  <string></string>
-			  <key>module</key>
-			  <string></string>		
-			  <key>new</key>
-			  <string></string>	
-			  <key>throw</key>
-			  <string></string>			  
-			  <key>nothrow</key>	  
-			  <string></string>	
-			  <key>out</key>
-			  <string></string>			
-			  <key>override</key>
-			  <string></string>			    		  		  	  			  			  	  		  	  			  	    		  			  
+				<key>in</key>
+				<string></string>			
+				<key>inout</key>
+				<string></string>		
+				<key>interface</key>
+				<string></string>
+				<key>invariant</key>
+				<string></string>		
+				<key>is</key>
+				<string></string>	
+				<key>lazy</key>
+				<string></string>		
+				<key>macro</key>
+				<string></string>
+				<key>mixin</key>
+				<string></string>
+				<key>module</key>
+				<string></string>		
+				<key>new</key>
+				<string></string>	
+				<key>throw</key>
+				<string></string>			  
+				<key>nothrow</key>	  
+				<string></string>	
+				<key>out</key>
+				<string></string>			
+				<key>override</key>
+				<string></string>			    		  		  	  			  			  	  		  	  			  	    		  			  
 				<key>if</key>
 				<string></string>
 				<key>else</key>
 				<string></string>
-			  <key>package</key>
-			  <string></string>		
-			  <key>pragma</key>
-			  <string></string>			
-			  <key>private</key>
-			  <string></string>			
-			  <key>protected</key>
-			  <string></string>			  
-			  <key>public</key>
-			  <string></string>			
-			  <key>pure</key>
-			  <string></string>		
-			  <key>ref</key>
-			  <string></string>			  	
-			  <key>scope</key>
-			  <string></string>	
-			  <key>shared</key>
-			  <string></string>
-			  <key>struct</key>
-			  <string></string>
-			  <key>super</key>
-			  <string></string>			
-			  <key>synchronized</key>
-			  <string></string>		
-			  <key>template</key>
-			  <string></string>		
-			  <key>typeid</key>
-			  <string></string>	
-			  <key>typeof</key>
-			  <string></string>	
-			  <key>union</key>
-			  <string></string>		
-			  <key>unittest</key>
-			  <string></string>			  
-			  <key>version</key>
-			  <string></string>	  	
-			  <key>volatile</key>
-			  <string></string>		
-			  <key>with</key>
-			  <string></string>																			  	  	  	    	    			  			  		          		
+				<key>package</key>
+				<string></string>		
+				<key>pragma</key>
+				<string></string>			
+				<key>private</key>
+				<string></string>			
+				<key>protected</key>
+				<string></string>			  
+				<key>public</key>
+				<string></string>			
+				<key>pure</key>
+				<string></string>		
+				<key>ref</key>
+				<string></string>			  	
+				<key>scope</key>
+				<string></string>	
+				<key>shared</key>
+				<string></string>
+				<key>struct</key>
+				<string></string>
+				<key>super</key>
+				<string></string>			
+				<key>synchronized</key>
+				<string></string>		
+				<key>template</key>
+				<string></string>		
+				<key>typeid</key>
+				<string></string>	
+				<key>typeof</key>
+				<string></string>	
+				<key>union</key>
+				<string></string>		
+				<key>unittest</key>
+				<string></string>			  
+				<key>version</key>
+				<string></string>	  	
+				<key>volatile</key>
+				<string></string>		
+				<key>with</key>
+				<string></string>																			  	  	  	    	    			  			  		          		
 				<key>for</key>
 				<string></string>
-			  <key>foreach</key>
-			  <string></string>	
-			  <key>foreach_reverse</key>
-			  <string></string>			  			
+				<key>foreach</key>
+				<string></string>	
+				<key>foreach_reverse</key>
+				<string></string>			  			
 				<key>while</key>
 				<string></string>
 				<key>do</key>
@@ -160,7 +160,7 @@
 				<key>static</key>
 				<string></string>
 				<key>class</key>
-				<string></string>
+			    <string></string>
 			</dict>
 		</dict>
 		<dict>
@@ -208,8 +208,8 @@
 				<string></string>							
 				<key>void</key>
 				<string></string>
-			  <key>auto</key>
-			  <string></string>				
+			    <key>auto</key>
+			    <string></string>				
 			</dict>
 		</dict>
 		<dict>
@@ -243,17 +243,28 @@
 			<key>start</key>
 			<string>/*</string>
 		</dict>
-		<key>SingleQuote</key>
+		<key>DoubleQuote</key>
 		<dict>
 			<key>color</key>
 			<string>StringColor</string>
 			<key>end</key>
-			<string>&apos;</string>
+			<string>&quot;</string>								
 			<key>escape</key>
 			<string>\</string>
 			<key>start</key>
-			<string>&apos;</string>
+			<string>&quot;</string>
 		</dict>
+		<key>ReDoubleQuote</key>
+		<dict>
+			<key>color</key>
+			<string>StringColor</string>
+			<key>end</key>
+			<string>&quot;</string>
+			<key>escape</key>
+			<string>\</string>
+			<key>start</key>
+			<string>r&quot;</string>
+		</dict>									
 		<key>OneLineComment</key>
 		<dict>
 			<key>color</key>
@@ -273,27 +284,7 @@
 </string>
 			<key>start</key>
 			<string>//</string>
-		</dict>
-		<key>DoubleQuote</key>
-		<dict>
-			<key>color</key>
-			<string>StringColor</string>
-			<key>end</key>
-			<string>&quot;</string>
-			<key>escape</key>
-			<string>\</string>
-			<key>start</key>
-			<string>&quot;</string>
-		</dict>
-	</dict>
-	<key>variables</key>
-	<dict>
-		<key>prefixes</key>
-		<array>
-			<string>$</string>
-		</array>
-		<key>color</key>
-		<string>VariableColor</string>
+		</dict>	
 	</dict>
 	<key>numbers</key>
 	<dict>
