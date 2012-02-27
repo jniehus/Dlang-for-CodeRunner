@@ -228,7 +228,19 @@
 				<key>__thread</key>
 				<string></string>
 				<key>__traits</key>
+				<string></string>
+				<key>__DATE__</key>
 				<string></string>	
+				<key>__TIME__</key>
+				<string></string>	
+				<key>__TIMESTAMP__</key>
+				<string></string>				
+				<key>__EOF__</key>
+				<string></string>	
+				<key>__VENDOR__</key>
+				<string></string>	
+				<key>__VERSION__</key>
+				<string></string>				
 			</dict>
 		</dict>
 	</array>
