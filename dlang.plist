@@ -243,6 +243,15 @@
 			<key>start</key>
 			<string>/*</string>
 		</dict>
+		<key>NestedBlockComment</key>
+		<dict>
+			<key>color</key>
+			<string>CommentColor</string>
+			<key>end</key>
+			<string>+/</string>
+			<key>start</key>
+			<string>/+</string>
+		</dict>			
 		<key>DoubleQuote</key>
 		<dict>
 			<key>color</key>
