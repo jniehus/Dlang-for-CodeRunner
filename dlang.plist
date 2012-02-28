@@ -160,7 +160,7 @@
 				<key>static</key>
 				<string></string>
 				<key>class</key>
-			    <string></string>
+			    <string></string>			    
 			</dict>
 		</dict>
 		<dict>
@@ -209,7 +209,15 @@
 				<key>void</key>
 				<string></string>
 			    <key>auto</key>
-			    <string></string>				
+			    <string></string>
+			    <key>T</key>
+			    <string></string>
+			    <key>U</key>
+			    <string></string>
+			    <key>V</key>
+			    <string></string>
+			    <key>Range</key>
+			    <string></string>			    			    			    			    				
 			</dict>
 		</dict>
 		<dict>
@@ -228,7 +236,16 @@
 				<key>__thread</key>
 				<string></string>
 				<key>__traits</key>
-				<string></string>
+				<string></string>																															
+			</dict>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>special tokens</string>
+			<key>color</key>
+			<string>PreprocessorColor</string>
+			<key>strings</key>
+			<dict>
 				<key>__DATE__</key>
 				<string></string>	
 				<key>__TIME__</key>
@@ -240,9 +257,9 @@
 				<key>__VENDOR__</key>
 				<string></string>	
 				<key>__VERSION__</key>
-				<string></string>				
+				<string></string>																															
 			</dict>
-		</dict>
+		</dict>		
 	</array>
 	<key>ranges</key>
 	<dict>
@@ -263,7 +280,7 @@
 			<string>+/</string>
 			<key>start</key>
 			<string>/+</string>
-		</dict>			
+		</dict>		
 		<key>DoubleQuote</key>
 		<dict>
 			<key>color</key>
