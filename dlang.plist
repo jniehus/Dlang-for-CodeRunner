@@ -1,11 +1,9 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
   <key>keywords</key>
   <array>
-
     <dict>
       <key>description</key>
       <string>control structures, general keywords</string>
@@ -222,6 +220,22 @@
         <key>__thread</key>
         <string></string>
         <key>__traits</key>
+        <string></string>
+        <key>string</key>
+        <string></string>
+        <key>wstring</key>
+        <string></string>
+        <key>dstring</key>
+        <string></string>
+        <key>size_t</key>
+        <string></string>
+        <key>ptrdiff_t</key>
+        <string></string>
+        <key>sizediff_t</key>
+        <string></string>
+        <key>hash_t</key>
+        <string></string>
+        <key>equals_t</key>
         <string></string>
 
       </dict>
@@ -481,7 +495,7 @@
 <string>
 </string>
 <key>start</key>
-<string>#</string>
+<string>#!</string>
 </dict>
 <key>OneLineComment2</key>
 <dict>
@@ -625,8 +639,7 @@ break;
 <string>all</string>
 <key>completion</key>
 <true/>
-</dict>
-</array>
+</dict></array>
 <key>wordCharacters</key>
 <string>_</string>
 </dict>
