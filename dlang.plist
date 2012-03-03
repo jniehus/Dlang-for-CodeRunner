@@ -277,6 +277,10 @@
         <string></string>
         <key>std.array</key>
         <string></string>
+        <key>std.ascii</key>
+        <string></string>
+        <key>std.base64</key>
+        <string></string>
         <key>std.bigint</key>
         <string></string>
         <key>std.bitmanip</key>
@@ -292,6 +296,8 @@
         <key>std.contracts</key>
         <string></string>
         <key>std.conv</key>
+        <string></string>
+        <key>std.csv</key>
         <string></string>
         <key>std.datetime</key>
         <string></string>
@@ -315,6 +321,8 @@
         <string></string>
         <key>std.mathspecial</key>
         <string></string>
+        <key>std.md5</key>
+        <string></string>
         <key>std.metastrings</key>
         <string></string>
         <key>std.mmfile</key>
@@ -322,6 +330,8 @@
         <key>std.numeric</key>
         <string></string>
         <key>std.outbuffer</key>
+        <string></string>
+        <key>std.parallelism</key>
         <string></string>
         <key>std.path</key>
         <string></string>
@@ -393,6 +403,10 @@
         <string></string>
         <key>std.c.wcharh</key>
         <string></string>
+        <key>std.net.curl</key>
+        <string></string>
+        <key>std.net.isemail</key>
+        <string></string>
         <key>std.windows.charset</key>
         <string></string>
         <key>std.windows</key>
@@ -404,6 +418,8 @@
         <key>std.c.linux</key>
         <string></string>
         <key>etc.c.curl</key>
+        <string></string>
+        <key>etc.c.sqlite3</key>
         <string></string>
         <key>etc.c.zlib</key>
         <string></string>
@@ -438,8 +454,6 @@
         <key>core.sync.rwmutex</key>
         <string></string>
         <key>core.sync.semaphore</key>
-        <string></string>
-        <key>etc.curl</key>
         <string></string>
 
       </dict>
