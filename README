@@ -30,3 +30,9 @@ void main() {
 NOTES:
 *These steps maybe obsolete if new versions of CodeRunner come out, will try to keep up-to-date
 *If you Command-Tab a few new documents they will automatically be titled "Untitled 2.d" (etc...) and the compiler will throw an error.  The reason is that your script is actually a d 'module' and modules require valid names. Names with spaces are not valid... so beware!
+
+-- BUG --
+nested { for Token strings break highlighting. 
+Example:
+writeln(q{ foo(q{hello}); }); // will stop highlight at first }
+These are dumb plists files so there will probably never be a fix.
